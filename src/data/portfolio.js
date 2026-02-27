@@ -51,8 +51,7 @@ export const portfolioData = {
         "Adoptée par plus de 500 utilisateurs en 3 mois"
       ],
       stack: ["Next.js", "TypeScript", "Supabase", "Tailwind"],
-      github: "https://github.com",
-      demo: "https://demo.com"
+      github: "https://github.com/hmyge225",
     }
   ],
   experiences: [
