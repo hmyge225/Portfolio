@@ -50,7 +50,7 @@ export const portfolioData = {
         "Application de gestion de projets avec collaboration en temps réel",
         "Adoptée par plus de 500 utilisateurs en 3 mois"
       ],
-      stack: ["Next.js", "TypeScript", "Supabase", "Tailwind"],
+      stack: ["Php", "Mysql", "MERISE", "Html/Css/Js"],
       github: "https://github.com/hmyge225",
     }
   ],
