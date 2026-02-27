@@ -47,8 +47,11 @@ export const portfolioData = {
       id: 2,
       name: "Plateforme de gestion des stocks",
       description: [
-        "Application de gestion de projets avec collaboration en temps réel",
-        "Adoptée par plus de 500 utilisateurs en 3 mois"
+        "Suivi en temps réel des niveaux de stock et alertes de réapprovisionnement",
+        "Calcul automatisé du chiffre d'affaires et génération de rapports financiers",
+        "Gestion complète des fournisseurs et historique des approvisionnements",
+        "Traitement des commandes clients et génération automatique de factures",
+        "Tableau de bord analytique pour le suivi des performances de vente"
       ],
       stack: ["Php", "Mysql", "MERISE", "Html/Css/Js"],
       github: "https://github.com/hmyge225",
